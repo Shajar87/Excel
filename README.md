@@ -5,7 +5,11 @@
 ---
 This project is a part of the virtual work experience program by Forage. In this project, I need to deliver solutions to the problems faced by Accenture's client, Social Buzz. Social Buzz is a tech company that is facing big data problem management and it wants to expand using its users’ data.
 
-**The dataset contains details of content e.g. content-Type, category, sentiment rection_type, etc.**
+The dataset contains details of content e.g. content-Type, category, sentiment rection_type, etc.
+
+**Dataset Review**
+
+
 
 | Content ID                             | Reaction Type | Datetime            | Content Type | Category  | Sentiment | Score |
 |----------------------------------------|---------------|---------------------|--------------|-----------|-----------|-------|
