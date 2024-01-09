@@ -5,6 +5,10 @@
 ---
 This project is a part of the virtual work experience program by Forage. In this project, I need to deliver solutions to the problems faced by Accenture's client, Social Buzz. Social Buzz is a tech company that is facing big data problem management and it wants to expand using its users’ data.
 
+**🔗PowerPoint Presentation Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data%20analysis.pptx
+
+**🔗Excel Workbook Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data.xlsx
+
 The dataset contains details of content e.g. content-Type, category, sentiment rection_type, etc.
 
 **Dataset Review**
@@ -59,8 +63,3 @@ The dataset contains details of content e.g. content-Type, category, sentiment r
 - Leverage these alliances to tap into new market segments and expand the user base.
 - Communicate the potential benefits of these partnerships to investors during the IPO process.
 
-  
-
-**🔗PowerPoint Presentation Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data%20analysis.pptx
-
-**🔗Excel Workbook Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data.xlsx
